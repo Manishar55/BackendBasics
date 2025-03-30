@@ -1,0 +1,72 @@
+
+Link ➡➡ click ➡➡ OS will give options for default browser ➡➡ (eg) chosen Chrome ➡➡ 
+browser dont understand link so through Domain name resolution we gwet IP address (of server) ➡➡ 
+connection established via TCP connection (by using 3 way handshake) ➡➡ Get request 
+
+
+📝 HTTP requests:
+
+GET -> Retrieve/fetch
+PUT -> Update
+POST -> Submit
+DELETE -> Delete
+
+creating serever using Express.js
+📝Express.js :
+
+✍️ Express is a framework used for creating server site application
+✍️Express.js is a lightweight and flexible Node.js web application framework that provides a robust set of 
+features for building web and mobile applications and APIs.
+
+✍️It simplifies the development of server-side applications by offering an easy-to-use API for routing, middleware, 
+and HTTP utilities. 
+✍️It is designed for building single-page, multi-page, and hybrid web applications. 
+✍️
+
+
+creating serever using Express.js
+1. create folder -> cd folder name
+2. npm i -y (for paclage.json)
+3. npm i express (install express in the project, nodemodules)
+4. server.js
+
+
+
+
+
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
