@@ -24,7 +24,7 @@ and HTTP utilities.
 
 
 
-creating serever using Express.js
+📝creating serever using Express.js:
 1. create folder -> cd folder name
 2. npm i -y (for paclage.json)
 3. npm i express (install express in the project, nodemodules)
@@ -36,6 +36,31 @@ creating serever using Express.js
 
 
 📝POSTMAN
+✍️Postman is an API platform that simplifies the API lifecycle, enabling developers to design, build, test,
+ document, and collaborate on APIs, ultimately streamlining the process of creating and using APIs
+
+
+
+📝mongoose
+✍️ it is used to link sever and DB 
+✍️ Mongoose is a tool that helps developers work with MongoDB databases in a more structured and intuitive way, 
+especially within the context of Node.js applications. 
+✍️Mongoose is an Object Data Modeling (ODM) library for MongoDB, a popular NoSQL database, that simplifies 
+interactions with MongoDB by providing a schema-based solution for modeling application data in Node.js.
+
+
+📝
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+✍️
+
+
+📝
+
 ✍️
 ✍️
 ✍️
@@ -44,24 +69,17 @@ creating serever using Express.js
 ✍️
 ✍️
 ✍️
+
+📝
+
 ✍️
 ✍️
 ✍️
 ✍️
 ✍️
 ✍️
-✍️
-✍️
-✍️
-✍️
-✍️
-✍️
-✍️
-✍️
-✍️
-✍️
-✍️
-✍️
+
+
 ✍️
 ✍️
 ✍️

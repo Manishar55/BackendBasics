@@ -19,7 +19,7 @@ app.listen(3000, ()=>{
 //Routes
 app.get('/', (req, res)=>{
     res.send("Hello Everyone");
-});
+}); 
 
 
 app.post('/api/cars', (req, res)=>{
@@ -28,5 +28,14 @@ app.post('/api/cars', (req, res)=>{
     console.log(brand);
     
     res.send('car submitted successfully');
-})
+});
 
+const mongoose=require('mongoose'); //created instance of mongoose
+
+//connected mongoDB with server using mongoose
+mongoose.connect('mongodb://localhost:27017/myDatabase', {
+    useNewUrlParser:true,
+    useUnifiedTopology:true
+})
+.then( ()=>{console.log("Connection Successful")})
+.catch( (error)=>{console.log('Receievd an error')});
