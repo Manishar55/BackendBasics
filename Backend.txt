@@ -28,11 +28,22 @@ and HTTP utilities.
 1. create folder -> cd folder name
 2. npm i -y (for paclage.json)
 3. npm i express (install express in the project, nodemodules)
-4. server.js
+4. npm i mongoose
+5. npm i dotenv
+6. npm i nodemon
+7. server.js
+
+📝npm i nodemon => install nodemone => no need to run again and again 
 
 📝RUN:
 ✍️node server.js  OR  npm start
 
+
+📝For scripts:
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
 
 
 📝POSTMAN
