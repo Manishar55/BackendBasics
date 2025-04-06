@@ -60,15 +60,19 @@ especially within the context of Node.js applications.
 interactions with MongoDB by providing a schema-based solution for modeling application data in Node.js.
 
 
-📝
-✍️
-✍️
-✍️
-✍️
-✍️
-✍️
-✍️
+📝connecting frontend and backend
 
+✍️ MongoDB atlas login
+✍️top left -> dropdown ->new Project
+✍️enter project name and create project
+✍️ click create cluster
+✍️select free
+✍️create deployment
+✍️save username and password
+✍️click finish and close
+✍️ click connect
+✍️click compass
+✍️copy connection string and replace password with the saved password
 
 📝
 
